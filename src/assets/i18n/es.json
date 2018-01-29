@@ -2,6 +2,7 @@
   "NAME": "Nombre",
   "PASSWORD": "Contraseña",
   "EMAIL": "Email",
+  "USERNAME": "Usuario",
   "LOGIN": "Iniciar sesión",
   "SIGNUP": "Registrarse",
 
@@ -30,6 +31,8 @@
 
   "WELCOME_TITLE": "Bienvenido/a",
 
+  "WELCOME_INTRO": "Este es el punto de inicio de mucho aprendizaje.",
+  
   "LOGIN_TITLE": "Iniciar sesión",
   "LOGIN_ERROR": "No se ha podido iniciar sesión. Por favor revisa la información de la cuenta e inténtalo de nuevo.",
   "LOGIN_BUTTON": "Iniciar sesión",
